@@ -1,0 +1,4 @@
+﻿  Fractal.cpp
+C:\Users\luisi\source\repos\FractalPrueba\FractalPrueba\Fractal.cpp(20,34): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\luisi\source\repos\FractalPrueba\FractalPrueba\Fractal.cpp(31,34): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+  FractalPrueba.vcxproj -> C:\Users\luisi\source\repos\FractalPrueba\Debug\FractalPrueba.exe
